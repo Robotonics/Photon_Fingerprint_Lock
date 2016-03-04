@@ -1,3 +1,7 @@
+// This example assumes you have ONE finger print already enrolled..
+// This code will be modified...
+
+
 #define cs   A2
 #define dc   D6
 #define rst  D2
